@@ -1,1 +1,5 @@
-# PHPTEST
+<?php
+
+echo "hello"
+
+?>
